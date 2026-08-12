@@ -48,5 +48,5 @@ If the installation was successful, you should be able to run the following comm
     http://localhost:3000/
 
 
-## chek this
+
 
